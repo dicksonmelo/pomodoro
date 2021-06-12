@@ -1,5 +1,7 @@
+"use strict"
+
 let min = 25;
-let sec = 00;
+let sec = 0;
 let cron;
 let breakCounting = 1;
 let sinal = new Audio();
